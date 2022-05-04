@@ -1,0 +1,4 @@
+node_modules
+credentials.* 
+
+//star means anything that starts with credentials
